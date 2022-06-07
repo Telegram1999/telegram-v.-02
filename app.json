@@ -1,15 +1,15 @@
 {
     "name": "Donlee V2",
     "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
-    "logo": "https://telegra.ph/file/92daa86a5ceb28fa6962d.jpg",
+    "logo": "https://t.me/kmtz_channel_v3",
     "keywords": [
         "Auto",
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "website": "http://instagram.com/kl_02_pranav_?utm_source=qr",
     "repository": "https://github.com/PR0FESS0R-99/DonLee-Robot-V1/tree/main",
-    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "success_url": "https://chat.whatsapp.com/IKGkvRMCEDb4ocbWApKkZ1",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MytelegramOrg_Bot",
