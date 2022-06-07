@@ -53,7 +53,7 @@ Just Sent Any Text As Query It Will Search For All Connected Chat's Files In Its
 <br>
 
 ### Notice
-* This [Deploy button](https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/DonLee-Robot-V1/tree/MoTech) is the original
+* This [Deploy button](https://heroku.com/deploy?template=https://github.com/Telegram1999/DonLee-Robot-V1/tree/MoTech) is the original
 * Click [Deploy Video](https://youtu.be/lI71HsWzTKE) to watch the video
 
 #### Deploy Video
